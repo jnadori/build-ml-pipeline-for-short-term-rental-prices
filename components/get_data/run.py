@@ -27,7 +27,7 @@ def go(args):
         args.artifact_description,
         os.path.join("data", args.sample),
         run,
-    )
+    ) 
 
 
 if __name__ == "__main__":
